@@ -3,6 +3,10 @@ body {
   font-size: 16px;
 }
 
+nav {
+  width: 100vw;
+}
+
 h1,
 h2,
 h3,
@@ -39,6 +43,10 @@ p {
 
 #showcase .showcase-right {
   margin-top: 90px;
+}
+
+#showcase .showcase-left img {
+  margin: 0;
 }
 
 #testimonial {
